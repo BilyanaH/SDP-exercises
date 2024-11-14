@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Uni\СДП\Упражнения\week02_stack\week02_stack\main.cpp(155,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni\СДП\Упражнения\week02_stack\week02_stack\main.cpp(202,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni\СДП\Упражнения\week02_stack\week02_stack\main.cpp(287,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni\СДП\Упражнения\week02_stack\week02_stack\main.cpp(311,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni\СДП\Упражнения\week02_stack\week02_stack\main.cpp(196,1): warning C4715: 'Calculator': not all control paths return a value
+  week02_stack.vcxproj -> D:\Uni\СДП\Упражнения\week02_stack\x64\Debug\week02_stack.exe
