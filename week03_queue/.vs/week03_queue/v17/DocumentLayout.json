@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week03_queue\\",
+  "WorkspaceRootPath": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week03_queue\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56A3A525-8D58-45A9-9B51-09B67C3AF05C}|week03_queue\\week03_queue.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week03_queue\\week03_queue\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{56A3A525-8D58-45A9-9B51-09B67C3AF05C}|week03_queue\\week03_queue.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week03_queue\\week03_queue\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{56A3A525-8D58-45A9-9B51-09B67C3AF05C}|week03_queue\\week03_queue.vcxproj|solutionrelative:week03_queue\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56A3A525-8D58-45A9-9B51-09B67C3AF05C}|week03_queue\\week03_queue.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week03_queue\\week03_queue\\FrontMiddleBack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{56A3A525-8D58-45A9-9B51-09B67C3AF05C}|week03_queue\\week03_queue.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week03_queue\\week03_queue\\FrontMiddleBack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{56A3A525-8D58-45A9-9B51-09B67C3AF05C}|week03_queue\\week03_queue.vcxproj|solutionrelative:week03_queue\\FrontMiddleBack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56A3A525-8D58-45A9-9B51-09B67C3AF05C}|week03_queue\\week03_queue.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week03_queue\\week03_queue\\Deque.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{56A3A525-8D58-45A9-9B51-09B67C3AF05C}|week03_queue\\week03_queue.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week03_queue\\week03_queue\\Deque.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{56A3A525-8D58-45A9-9B51-09B67C3AF05C}|week03_queue\\week03_queue.vcxproj|solutionrelative:week03_queue\\Deque.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56A3A525-8D58-45A9-9B51-09B67C3AF05C}|week03_queue\\week03_queue.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week03_queue\\week03_queue\\QueueWithStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{56A3A525-8D58-45A9-9B51-09B67C3AF05C}|week03_queue\\week03_queue.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week03_queue\\week03_queue\\QueueWithStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{56A3A525-8D58-45A9-9B51-09B67C3AF05C}|week03_queue\\week03_queue.vcxproj|solutionrelative:week03_queue\\QueueWithStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56A3A525-8D58-45A9-9B51-09B67C3AF05C}|week03_queue\\week03_queue.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week03_queue\\week03_queue\\StackWithQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{56A3A525-8D58-45A9-9B51-09B67C3AF05C}|week03_queue\\week03_queue.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week03_queue\\week03_queue\\StackWithQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{56A3A525-8D58-45A9-9B51-09B67C3AF05C}|week03_queue\\week03_queue.vcxproj|solutionrelative:week03_queue\\StackWithQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -40,48 +40,45 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Deque.cpp",
-              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week03_queue\\week03_queue\\Deque.cpp",
+              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week03_queue\\week03_queue\\Deque.cpp",
               "RelativeDocumentMoniker": "week03_queue\\Deque.cpp",
-              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week03_queue\\week03_queue\\Deque.cpp",
+              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week03_queue\\week03_queue\\Deque.cpp",
               "RelativeToolTip": "week03_queue\\Deque.cpp",
               "ViewState": "AgIAAIcAAAAAAAAAAAAlwJQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-14T11:22:30.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T11:22:30.479Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "StackWithQueue.cpp",
-              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week03_queue\\week03_queue\\StackWithQueue.cpp",
+              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week03_queue\\week03_queue\\StackWithQueue.cpp",
               "RelativeDocumentMoniker": "week03_queue\\StackWithQueue.cpp",
-              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week03_queue\\week03_queue\\StackWithQueue.cpp",
+              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week03_queue\\week03_queue\\StackWithQueue.cpp",
               "RelativeToolTip": "week03_queue\\StackWithQueue.cpp",
               "ViewState": "AgIAAAwAAAAAAAAAAAAewBsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-14T09:52:49.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T09:52:49.725Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FrontMiddleBack.cpp",
-              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week03_queue\\week03_queue\\FrontMiddleBack.cpp",
+              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week03_queue\\week03_queue\\FrontMiddleBack.cpp",
               "RelativeDocumentMoniker": "week03_queue\\FrontMiddleBack.cpp",
-              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week03_queue\\week03_queue\\FrontMiddleBack.cpp",
+              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week03_queue\\week03_queue\\FrontMiddleBack.cpp",
               "RelativeToolTip": "week03_queue\\FrontMiddleBack.cpp",
               "ViewState": "AgIAAFUAAAAAAAAAAAAlwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-31T13:21:55.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T13:21:55.211Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week03_queue\\week03_queue\\main.cpp",
+              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week03_queue\\week03_queue\\main.cpp",
               "RelativeDocumentMoniker": "week03_queue\\main.cpp",
-              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week03_queue\\week03_queue\\main.cpp",
+              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week03_queue\\week03_queue\\main.cpp",
               "RelativeToolTip": "week03_queue\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -92,14 +89,13 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "QueueWithStack.cpp",
-              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week03_queue\\week03_queue\\QueueWithStack.cpp",
+              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week03_queue\\week03_queue\\QueueWithStack.cpp",
               "RelativeDocumentMoniker": "week03_queue\\QueueWithStack.cpp",
-              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week03_queue\\week03_queue\\QueueWithStack.cpp",
+              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week03_queue\\week03_queue\\QueueWithStack.cpp",
               "RelativeToolTip": "week03_queue\\QueueWithStack.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-29T08:38:03.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T08:38:03.66Z"
             }
           ]
         }
