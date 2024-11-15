@@ -1,17 +1,21 @@
 ﻿  main.cpp
-D:\Uni\СДП\Упражнения\week03_queue\week03_queue\StackWithQueue.cpp(20,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni\СДП\Упражнения\SDP-exercises\week03_queue\week03_queue\main.cpp(25,10): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni\СДП\Упражнения\SDP-exercises\week03_queue\week03_queue\main.cpp(87,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni\СДП\Упражнения\SDP-exercises\week03_queue\week03_queue\main.cpp(88,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni\СДП\Упражнения\SDP-exercises\week03_queue\week03_queue\main.cpp(133,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni\СДП\Упражнения\SDP-exercises\week03_queue\week03_queue\StackWithQueue.cpp(20,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   (compiling source file 'main.cpp')
-      D:\Uni\СДП\Упражнения\week03_queue\week03_queue\StackWithQueue.cpp(20,8):
+      D:\Uni\СДП\Упражнения\SDP-exercises\week03_queue\week03_queue\StackWithQueue.cpp(20,8):
       the template instantiation context (the oldest one first) is
-          D:\Uni\СДП\Упражнения\week03_queue\week03_queue\main.cpp(23,37):
+          D:\Uni\СДП\Упражнения\SDP-exercises\week03_queue\week03_queue\main.cpp(211,37):
           see reference to class template instantiation 'StackWithQueue<int>' being compiled
-          D:\Uni\СДП\Упражнения\week03_queue\week03_queue\StackWithQueue.cpp(18,1):
+          D:\Uni\СДП\Упражнения\SDP-exercises\week03_queue\week03_queue\StackWithQueue.cpp(18,1):
           while compiling class template member function 'void StackWithQueue<int>::push(T)'
           with
           [
               T=int
           ]
-              D:\Uni\СДП\Упражнения\week03_queue\week03_queue\main.cpp(24,15):
+              D:\Uni\СДП\Упражнения\SDP-exercises\week03_queue\week03_queue\main.cpp(212,15):
               see the first reference to 'StackWithQueue<int>::push' in 'main'
   
-  week03_queue.vcxproj -> D:\Uni\СДП\Упражнения\week03_queue\x64\Debug\week03_queue.exe
+  week03_queue.vcxproj -> D:\Uni\СДП\Упражнения\SDP-exercises\week03_queue\x64\Debug\week03_queue.exe

@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week02_stack\\",
+  "WorkspaceRootPath": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week02_stack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C4521A1-271F-48FF-AA37-528BB9F99075}|week02_stack\\week02_stack.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week02_stack\\week02_stack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C4521A1-271F-48FF-AA37-528BB9F99075}|week02_stack\\week02_stack.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week02_stack\\week02_stack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C4521A1-271F-48FF-AA37-528BB9F99075}|week02_stack\\week02_stack.vcxproj|solutionrelative:week02_stack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C4521A1-271F-48FF-AA37-528BB9F99075}|week02_stack\\week02_stack.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week02_stack\\week02_stack\\tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C4521A1-271F-48FF-AA37-528BB9F99075}|week02_stack\\week02_stack.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week02_stack\\week02_stack\\tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C4521A1-271F-48FF-AA37-528BB9F99075}|week02_stack\\week02_stack.vcxproj|solutionrelative:week02_stack\\tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C4521A1-271F-48FF-AA37-528BB9F99075}|week02_stack\\week02_stack.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week02_stack\\week02_stack\\MinStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C4521A1-271F-48FF-AA37-528BB9F99075}|week02_stack\\week02_stack.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week02_stack\\week02_stack\\MinStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C4521A1-271F-48FF-AA37-528BB9F99075}|week02_stack\\week02_stack.vcxproj|solutionrelative:week02_stack\\MinStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -21,7 +21,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\deque||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C4521A1-271F-48FF-AA37-528BB9F99075}|week02_stack\\week02_stack.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week02_stack\\week02_stack\\MinStack.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C4521A1-271F-48FF-AA37-528BB9F99075}|week02_stack\\week02_stack.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week02_stack\\week02_stack\\MinStack.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C4521A1-271F-48FF-AA37-528BB9F99075}|week02_stack\\week02_stack.vcxproj|solutionrelative:week02_stack\\MinStack.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -84,11 +84,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week02_stack\\week02_stack\\main.cpp",
+              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week02_stack\\week02_stack\\main.cpp",
               "RelativeDocumentMoniker": "week02_stack\\main.cpp",
-              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week02_stack\\week02_stack\\main.cpp",
+              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week02_stack\\week02_stack\\main.cpp",
               "RelativeToolTip": "week02_stack\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsBAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-15T07:48:44.825Z",
               "EditorCaption": ""
@@ -127,33 +127,35 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MinStack.cpp",
-              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week02_stack\\week02_stack\\MinStack.cpp",
+              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week02_stack\\week02_stack\\MinStack.cpp",
               "RelativeDocumentMoniker": "week02_stack\\MinStack.cpp",
-              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week02_stack\\week02_stack\\MinStack.cpp",
+              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week02_stack\\week02_stack\\MinStack.cpp",
               "RelativeToolTip": "week02_stack\\MinStack.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-15T08:35:29.646Z"
+              "WhenOpened": "2024-10-15T08:35:29.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "tests.cpp",
-              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week02_stack\\week02_stack\\tests.cpp",
+              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week02_stack\\week02_stack\\tests.cpp",
               "RelativeDocumentMoniker": "week02_stack\\tests.cpp",
-              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week02_stack\\week02_stack\\tests.cpp",
+              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week02_stack\\week02_stack\\tests.cpp",
               "RelativeToolTip": "week02_stack\\tests.cpp",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAAJcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAAJcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-02T07:28:55.577Z"
+              "WhenOpened": "2024-11-02T07:28:55.577Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "MinStack.hpp",
-              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week02_stack\\week02_stack\\MinStack.hpp",
+              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week02_stack\\week02_stack\\MinStack.hpp",
               "RelativeDocumentMoniker": "week02_stack\\MinStack.hpp",
-              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\week02_stack\\week02_stack\\MinStack.hpp",
+              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week02_stack\\week02_stack\\MinStack.hpp",
               "RelativeToolTip": "week02_stack\\MinStack.hpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
