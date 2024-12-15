@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Uni\СДП\Упражнения\SDP-exercises\week07_introduction to trees\week07_introduction to trees\main.cpp(125,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni\СДП\Упражнения\SDP-exercises\week07_introduction to trees\week07_introduction to trees\main.cpp(182,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  week07_introduction to trees.vcxproj -> D:\Uni\СДП\Упражнения\SDP-exercises\week07_introduction to trees\x64\Debug\week07_introduction to trees.exe

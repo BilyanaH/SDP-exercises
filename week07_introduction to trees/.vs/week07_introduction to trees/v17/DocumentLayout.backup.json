@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week07_introduction to trees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67C4253E-0FA7-438E-8252-61E54155047C}|week07_introduction to trees\\week07_introduction to trees.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week07_introduction to trees\\week07_introduction to trees\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67C4253E-0FA7-438E-8252-61E54155047C}|week07_introduction to trees\\week07_introduction to trees.vcxproj|solutionrelative:week07_introduction to trees\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C4253E-0FA7-438E-8252-61E54155047C}|week07_introduction to trees\\week07_introduction to trees.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week07_introduction to trees\\week07_introduction to trees\\tree3.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{67C4253E-0FA7-438E-8252-61E54155047C}|week07_introduction to trees\\week07_introduction to trees.vcxproj|solutionrelative:week07_introduction to trees\\tree3.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C4253E-0FA7-438E-8252-61E54155047C}|week07_introduction to trees\\week07_introduction to trees.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week07_introduction to trees\\week07_introduction to trees\\tree2.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{67C4253E-0FA7-438E-8252-61E54155047C}|week07_introduction to trees\\week07_introduction to trees.vcxproj|solutionrelative:week07_introduction to trees\\tree2.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C4253E-0FA7-438E-8252-61E54155047C}|week07_introduction to trees\\week07_introduction to trees.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week07_introduction to trees\\week07_introduction to trees\\tree1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{67C4253E-0FA7-438E-8252-61E54155047C}|week07_introduction to trees\\week07_introduction to trees.vcxproj|solutionrelative:week07_introduction to trees\\tree1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C4253E-0FA7-438E-8252-61E54155047C}|week07_introduction to trees\\week07_introduction to trees.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week07_introduction to trees\\week07_introduction to trees\\tree3.dot||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67C4253E-0FA7-438E-8252-61E54155047C}|week07_introduction to trees\\week07_introduction to trees.vcxproj|solutionrelative:week07_introduction to trees\\tree3.dot||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C4253E-0FA7-438E-8252-61E54155047C}|week07_introduction to trees\\week07_introduction to trees.vcxproj|D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week07_introduction to trees\\week07_introduction to trees\\tree1.dot||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67C4253E-0FA7-438E-8252-61E54155047C}|week07_introduction to trees\\week07_introduction to trees.vcxproj|solutionrelative:week07_introduction to trees\\tree1.dot||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tree3.dot",
+              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week07_introduction to trees\\week07_introduction to trees\\tree3.dot",
+              "RelativeDocumentMoniker": "week07_introduction to trees\\tree3.dot",
+              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week07_introduction to trees\\week07_introduction to trees\\tree3.dot",
+              "RelativeToolTip": "week07_introduction to trees\\tree3.dot",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002149|",
+              "WhenOpened": "2024-12-15T19:14:26.869Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tree3.png",
+              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week07_introduction to trees\\week07_introduction to trees\\tree3.png",
+              "RelativeDocumentMoniker": "week07_introduction to trees\\tree3.png",
+              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week07_introduction to trees\\week07_introduction to trees\\tree3.png",
+              "RelativeToolTip": "week07_introduction to trees\\tree3.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-15T19:13:51.405Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tree1.dot",
+              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week07_introduction to trees\\week07_introduction to trees\\tree1.dot",
+              "RelativeDocumentMoniker": "week07_introduction to trees\\tree1.dot",
+              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week07_introduction to trees\\week07_introduction to trees\\tree1.dot",
+              "RelativeToolTip": "week07_introduction to trees\\tree1.dot",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002149|",
+              "WhenOpened": "2024-12-15T19:56:16.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tree1.png",
+              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week07_introduction to trees\\week07_introduction to trees\\tree1.png",
+              "RelativeDocumentMoniker": "week07_introduction to trees\\tree1.png",
+              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week07_introduction to trees\\week07_introduction to trees\\tree1.png",
+              "RelativeToolTip": "week07_introduction to trees\\tree1.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-15T18:43:12.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tree2.png",
+              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week07_introduction to trees\\week07_introduction to trees\\tree2.png",
+              "RelativeDocumentMoniker": "week07_introduction to trees\\tree2.png",
+              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week07_introduction to trees\\week07_introduction to trees\\tree2.png",
+              "RelativeToolTip": "week07_introduction to trees\\tree2.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-15T18:42:44.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week07_introduction to trees\\week07_introduction to trees\\main.cpp",
+              "RelativeDocumentMoniker": "week07_introduction to trees\\main.cpp",
+              "ToolTip": "D:\\Uni\\\u0421\u0414\u041F\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\SDP-exercises\\week07_introduction to trees\\week07_introduction to trees\\main.cpp*",
+              "RelativeToolTip": "week07_introduction to trees\\main.cpp*",
+              "ViewState": "AgIAALgAAAAAAAAAAAAuwM8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T17:25:25.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
