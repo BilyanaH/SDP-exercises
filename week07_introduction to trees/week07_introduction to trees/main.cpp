@@ -325,6 +325,42 @@ void testBuildBinaryExpressionTreeFromInfixExpression() {
     delete root3;
 }
 
+struct Employees
+{
+    int value;
+    std::vector<Employees*> nodes;
+    Employees(int _value, std::vector<Employees*> nodes = {}) :value(_value) {};
+};
+
+int childrensCount(Employees* employee) {
+    int sum = employee->nodes.size();
+    for (auto i : employee->nodes)
+    {
+        sum += childrensCount(i);
+    }
+    return sum;
+}
+
+void presents() {
+    int n;
+    std::cin >> n;
+    Employees** nodes = new Employees*[n];
+    for (int i = 0; i < n; i++)
+    {
+        nodes[i] = new Employees{ i };
+    }
+    for (size_t i = 1; i < n; i++)
+    {
+        int x, y;
+        std::cin >> x >> y;
+        nodes[x]->nodes.push_back(nodes[y]);
+    }
+    for (size_t i = 0; i < n; i++)
+    {
+        std::cout << childrensCount(nodes[i]) << " ";
+    }
+}
+
 int main(){
     Node<int>* root1 = new Node<int>(4);
     root1->left = new Node<int>(2);
@@ -358,6 +394,7 @@ int main(){
     testTreeLevels(root1, root2, root3);
     testrightSideView(root1, root2, root3);
     testBuildBinaryExpressionTreeFromInfixExpression();
+    presents();
 
     delete root1->left->left;
     delete root1->left->right;
