@@ -1,0 +1,14 @@
+digraph Tree {
+node [shape=circle];
+splines=polyline;
+rankdir=TB;
+"xel" -> "go" [label="L", dir=both, arrowhead=normal, arrowtail=none];
+"go" -> "al" [label="L", dir=both, arrowhead=normal, arrowtail=none];
+"al" -> "a" [label="L", dir=both, arrowhead=normal, arrowtail=none];
+"go" -> "thms" [label="R", dir=both, arrowhead=normal, arrowtail=none];
+"thms" -> "ri" [label="L", dir=both, arrowhead=normal, arrowtail=none];
+"thms" -> "u" [label="R", dir=both, arrowhead=normal, arrowtail=none];
+"xel" -> "yes" [label="R", dir=both, arrowhead=normal, arrowtail=none];
+"yes" -> "ya" [label="L", dir=both, arrowhead=normal, arrowtail=none];
+"yes" -> "za" [label="R", dir=both, arrowhead=normal, arrowtail=none];
+}

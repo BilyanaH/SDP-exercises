@@ -1,0 +1,13 @@
+digraph Tree {
+node [shape=circle];
+splines=polyline;
+rankdir=TB;
+"10" -> "5" [label="L", dir=both, arrowhead=normal, arrowtail=none];
+"5" -> "2" [label="L", dir=both, arrowhead=normal, arrowtail=none];
+"5" -> "7" [label="R", dir=both, arrowhead=normal, arrowtail=none];
+"10" -> "15" [label="R", dir=both, arrowhead=normal, arrowtail=none];
+"15" -> "12" [label="L", dir=both, arrowhead=normal, arrowtail=none];
+"15" -> "20" [label="R", dir=both, arrowhead=normal, arrowtail=none];
+"20" -> "21" [label="R", dir=both, arrowhead=normal, arrowtail=none];
+"21" -> "22" [label="R", dir=both, arrowhead=normal, arrowtail=none];
+}

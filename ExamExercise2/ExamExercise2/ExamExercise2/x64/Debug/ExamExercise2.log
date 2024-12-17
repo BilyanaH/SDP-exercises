@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Uni\СДП\Упражнения\SDP-exercises\ExamExercise2\ExamExercise2\main.cpp(55,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni\СДП\Упражнения\SDP-exercises\ExamExercise2\ExamExercise2\main.cpp(119,28): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni\СДП\Упражнения\SDP-exercises\ExamExercise2\ExamExercise2\main.cpp(129,28): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni\СДП\Упражнения\SDP-exercises\ExamExercise2\ExamExercise2\main.cpp(133,1): warning C4715: 'findWordRecursive': not all control paths return a value
+  ExamExercise2.vcxproj -> D:\Uni\СДП\Упражнения\SDP-exercises\ExamExercise2\ExamExercise2\x64\Debug\ExamExercise2.exe
