@@ -23,6 +23,9 @@
     <None Include="tree1.dot" />
     <None Include="tree2.dot" />
     <None Include="tree3.dot" />
+    <None Include="tree4.dot" />
+    <None Include="tree5.dot" />
+    <None Include="tree6.dot" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="tree1.png">
