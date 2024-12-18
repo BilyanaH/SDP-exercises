@@ -1,2 +1,6 @@
-﻿  main.cpp
+﻿  BSTIterator.cpp
+  main.cpp
+  Generating Code...
+D:\Uni\СДП\Упражнения\SDP-exercises\week08 - BST\week08 - BST\main.cpp(53,1): warning C4715: 'findKMin': not all control paths return a value
+D:\Uni\СДП\Упражнения\SDP-exercises\week08 - BST\week08 - BST\main.cpp(127,1): warning C4715: 'SearchInBinarySearchTree': not all control paths return a value
   week08 - BST.vcxproj -> D:\Uni\СДП\Упражнения\SDP-exercises\week08 - BST\x64\Debug\week08 - BST.exe

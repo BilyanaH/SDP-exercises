@@ -1,0 +1,7 @@
+digraph Tree {
+node [shape=circle];
+"0" -> "-3" [label="L", dir=both, arrowhead=normal, arrowtail=none];
+"-3" -> "-10" [label="L", dir=both, arrowhead=normal, arrowtail=none];
+"0" -> "9" [label="R", dir=both, arrowhead=normal, arrowtail=none];
+"9" -> "5" [label="L", dir=both, arrowhead=normal, arrowtail=none];
+}

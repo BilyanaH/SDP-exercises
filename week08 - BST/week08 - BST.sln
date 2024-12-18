@@ -5,6 +5,16 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "week08 - BST", "week08 - BST\week08 - BST.vcxproj", "{28CACEF1-B4C3-4200-91F4-A61C1566E76F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B270D61B-7FCC-4FC3-B652-27D142EFDE06}"
+	ProjectSection(SolutionItems) = preProject
+		week08 - BST\tree.dot = week08 - BST\tree.dot
+		week08 - BST\tree.png = week08 - BST\tree.png
+		week08 - BST\tree1.dot = week08 - BST\tree1.dot
+		week08 - BST\tree1.png = week08 - BST\tree1.png
+		week08 - BST\tree2.dot = week08 - BST\tree2.dot
+		week08 - BST\tree2.png = week08 - BST\tree2.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
