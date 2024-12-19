@@ -1,3 +1,4 @@
 ﻿  main.cpp
 D:\Uni\СДП\Упражнения\SDP-exercises\week11 - hash tables\week11 - hash tables\main.cpp(88,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni\СДП\Упражнения\SDP-exercises\week11 - hash tables\week11 - hash tables\main.cpp(138,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
   week11 - hash tables.vcxproj -> D:\Uni\СДП\Упражнения\SDP-exercises\week11 - hash tables\x64\Debug\week11 - hash tables.exe

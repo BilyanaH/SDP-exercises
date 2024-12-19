@@ -128,10 +128,38 @@ void testAlienDictionary() {
 
 	std::cout << "All AlienDictionary tests passed!" << std::endl;
 }
+bool containsDuplicate(std::vector<int> numbers, int k) {
+	std::unordered_map<int, int> map;
+	for (size_t i = 0; i < numbers.size(); i++)
+	{
+		if (map.find(numbers[i]) != map.end() &&
+			i - map[numbers[i]]<=k)
+			return true;		
+		map[numbers[i]] = i;
 
+	}
+	return false;
+}
+void testContainsDuplicate() {
+	std::vector<int> nums1 = { 1, 2, 3, 1 };
+	int k1 = 3;
+	assert(containsDuplicate(nums1, k1) == true);
+
+	std::vector<int> nums2 = { 1, 0, 1, 1 };
+	int k2 = 1;
+	assert(containsDuplicate(nums2, k2) == true);
+
+	std::vector<int> nums3 = { 1, 2, 3, 1, 2, 3 };
+	int k3 = 2;
+	assert(containsDuplicate(nums3, k3) == false);
+
+	std::cout << "All containsDuplicate tests passed!" << std::endl;
+}
 int main() {
 	testTwoSum();
 	testFindMostUsedWord();
 	testAlienDictionary();
+	testContainsDuplicate();
+
 	return 0;
 }
