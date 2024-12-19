@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Uni\СДП\Упражнения\ExamPractise2_2\ExamPractise2_2\main.cpp(27,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni\СДП\Упражнения\ExamPractise2_2\ExamPractise2_2\main.cpp(35,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni\СДП\Упражнения\ExamPractise2_2\ExamPractise2_2\main.cpp(35,87): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni\СДП\Упражнения\ExamPractise2_2\ExamPractise2_2\main.cpp(49,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ExamPractise2_2.vcxproj -> D:\Uni\СДП\Упражнения\ExamPractise2_2\x64\Debug\ExamPractise2_2.exe
